@@ -1,0 +1,7 @@
+services:
+
+  fronthend:
+    image: myapp:latest
+    container_name: "webapp"
+    ports:
+      - "5000:5000"
