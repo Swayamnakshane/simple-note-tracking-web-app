@@ -2,6 +2,6 @@ services:
 
   fronthend:
     image: myapp:latest
-    container_name: "webapp"
+    container_name: "myapp"
     ports:
       - "5000:5000"
