@@ -14,6 +14,7 @@ Wanna try this app? Visit: [http://omkarpathak27.pythonanywhere.com/](http://omk
 
 Execute the following command to install the required third party libraries:<br />
 
+"pip install --upgrade pip"
 `pip3 install -r requirements.txt`
 
 # Usage:
